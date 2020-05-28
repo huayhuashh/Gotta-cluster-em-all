@@ -1,5 +1,5 @@
 # Gotta-cluster-em-all
-Discovering the power of ***Unsupervised learning*** by clustering Pokémons in R. Used techniques include **K-means clustering** and **Hierarchical clustering** complemented with **Principal component analysis**. Introductory training for the Data Science Cluster at [Oxera](https://www.oxera.com/).
+Discovering the power of *unsupervised learning* by clustering Pokémons in R. Used techniques include **K-means clustering** and **Hierarchical clustering** complemented with **Principal component analysis**. Introductory training for the Data Science Cluster at [Oxera](https://www.oxera.com/).
 
 ## Context
 I created this easy intro on unsupervised learning from scratch as part of an internal Data Science competition at Oxera. This starter code helped to level the playing field for the participants of the competition.
